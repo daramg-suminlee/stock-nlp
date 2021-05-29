@@ -4,7 +4,7 @@ Let's predict stock market with NLP
 ## Install
 Install the dependencies by creating the Conda environment from the given environment.yml file and activating it.
 ```bash
-    conda env create -f environment.yml
+    conda env create -f environment.yml -n stock-nlp
     conda activate stock-nlp
 ```
 
